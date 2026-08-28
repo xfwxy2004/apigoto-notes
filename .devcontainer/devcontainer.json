@@ -1,0 +1,8 @@
+{
+  "name": "APIGOTO notes dev",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "postCreateCommand": "gh auth login --with-token < $GH_TOKEN || echo 'GH_TOKEN not set, manual login required'"
+}
