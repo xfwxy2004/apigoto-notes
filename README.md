@@ -4,10 +4,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![APIGOTO](https://img.shields.io/badge/Powered%20by-APIGOTO-5eead4)](https://www.apigoto.com/)
 
-A personal developer notebook on building AI applications. Each post is a
-short note from my own workflow — not official documentation.
+Personal developer notes on building AI applications with APIGOTO as the unified API gateway.
 
-## Posts
+## 🚀 New (2026-08-28)
+
+- [Desktop client shipped](./desktop-client.md) — one window for agents, tools, 200+ models
+- [Free tokens for new users](./free-tokens-month.md) — 1 month free for 200+ models
+- [More agent tools supported](./more-agents-supported.md) — Codex, Claude, Hermes, OpenClaw
+- [30-second tutorials](./30s-tutorials.md) — 4 short videos covering key techniques
+
+## All notes
 
 - [Pre-agent API checklist](./pre-agent-api-checklist.md)
 - [Smoke test before production](./smoke-test-checklist.md)
@@ -16,21 +22,12 @@ short note from my own workflow — not official documentation.
 - [My AI prototype tooling stack](./ai-prototype-tooling-stack.md)
 - [APIGOTO readme](./unified-llm-api-readme.md)
 
-## About APIGOTO
+## About
 
 APIGOTO is a unified LLM API gateway I use while prototyping AI applications.
-It gives me one endpoint, one key flow, and one usage view across models.
-I do not work for APIGOTO. I use it as a personal developer.
 
 https://www.apigoto.com/
 
-## Note
-
-This repository contains personal workflow notes. The point is the
-**patterns** (unified API layer, smoke test before wiring, etc.), not
-endorsement of any specific tool.
-
 ---
 
-*Personal developer experience, not an official statement from any model
-provider or platform.*
+*Personal developer experience, not an official statement from any model provider or platform.*
